@@ -1,0 +1,12 @@
+﻿# Visual Studio build artifacts
+bin/
+obj/
+.vs/
+*.user
+
+# CineLog secrets
+Secrets.cs
+
+# OS junk
+.DS_Store
+Thumbs.db
